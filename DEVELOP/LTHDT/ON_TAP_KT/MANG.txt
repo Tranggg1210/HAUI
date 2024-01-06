@@ -1,0 +1,4 @@
+
+Mang vua nhap la: 	10	9	5	-2	-3
+Mang sau khi sap xep tang dan: 	-3	-2	5	9	10
+Mang sau khi sap xep giam dan: 	10	9	5	-2	-3

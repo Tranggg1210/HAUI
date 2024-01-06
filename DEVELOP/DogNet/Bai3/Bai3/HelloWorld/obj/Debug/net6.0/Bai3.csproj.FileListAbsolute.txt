@@ -1,0 +1,14 @@
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\Bai3\bin\Debug\net6.0\Bai3.exe
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\Bai3\bin\Debug\net6.0\Bai3.deps.json
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\Bai3\bin\Debug\net6.0\Bai3.runtimeconfig.json
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\Bai3\bin\Debug\net6.0\Bai3.dll
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\Bai3\bin\Debug\net6.0\Bai3.pdb
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\Bai3\obj\Debug\net6.0\Bai3.GeneratedMSBuildEditorConfig.editorconfig
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\Bai3\obj\Debug\net6.0\Bai3.AssemblyInfoInputs.cache
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\Bai3\obj\Debug\net6.0\Bai3.AssemblyInfo.cs
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\Bai3\obj\Debug\net6.0\Bai3.csproj.CoreCompileInputs.cache
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\Bai3\obj\Debug\net6.0\Bai3.dll
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\Bai3\obj\Debug\net6.0\refint\Bai3.dll
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\Bai3\obj\Debug\net6.0\Bai3.pdb
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\Bai3\obj\Debug\net6.0\Bai3.genruntimeconfig.cache
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\Bai3\obj\Debug\net6.0\ref\Bai3.dll

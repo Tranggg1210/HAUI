@@ -1,0 +1,14 @@
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TachDay\bin\Debug\net6.0\TachDay.exe
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TachDay\bin\Debug\net6.0\TachDay.deps.json
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TachDay\bin\Debug\net6.0\TachDay.runtimeconfig.json
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TachDay\bin\Debug\net6.0\TachDay.dll
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TachDay\bin\Debug\net6.0\TachDay.pdb
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TachDay\obj\Debug\net6.0\TachDay.GeneratedMSBuildEditorConfig.editorconfig
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TachDay\obj\Debug\net6.0\TachDay.AssemblyInfoInputs.cache
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TachDay\obj\Debug\net6.0\TachDay.AssemblyInfo.cs
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TachDay\obj\Debug\net6.0\TachDay.csproj.CoreCompileInputs.cache
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TachDay\obj\Debug\net6.0\TachDay.dll
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TachDay\obj\Debug\net6.0\refint\TachDay.dll
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TachDay\obj\Debug\net6.0\TachDay.pdb
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TachDay\obj\Debug\net6.0\TachDay.genruntimeconfig.cache
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TachDay\obj\Debug\net6.0\ref\TachDay.dll

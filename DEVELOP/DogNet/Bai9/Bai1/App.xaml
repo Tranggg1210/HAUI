@@ -1,0 +1,14 @@
+﻿<Application x:Class="Bai1.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Bai1"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ControlTemplate x:Key="buttonControlTemplate" TargetType="Button">
+            <Grid>
+                <Border Background="{TemplateBinding Background}" CornerRadius="4"/>
+                <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Grid>
+        </ControlTemplate>
+    </Application.Resources>
+</Application>

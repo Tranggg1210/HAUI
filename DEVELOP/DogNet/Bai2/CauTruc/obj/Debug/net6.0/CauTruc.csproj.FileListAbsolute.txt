@@ -1,0 +1,14 @@
+D:\HAUI\LAP_TRINH\DogNet\Bai2\CauTruc\bin\Debug\net6.0\CauTruc.exe
+D:\HAUI\LAP_TRINH\DogNet\Bai2\CauTruc\bin\Debug\net6.0\CauTruc.deps.json
+D:\HAUI\LAP_TRINH\DogNet\Bai2\CauTruc\bin\Debug\net6.0\CauTruc.runtimeconfig.json
+D:\HAUI\LAP_TRINH\DogNet\Bai2\CauTruc\bin\Debug\net6.0\CauTruc.dll
+D:\HAUI\LAP_TRINH\DogNet\Bai2\CauTruc\bin\Debug\net6.0\CauTruc.pdb
+D:\HAUI\LAP_TRINH\DogNet\Bai2\CauTruc\obj\Debug\net6.0\CauTruc.GeneratedMSBuildEditorConfig.editorconfig
+D:\HAUI\LAP_TRINH\DogNet\Bai2\CauTruc\obj\Debug\net6.0\CauTruc.AssemblyInfoInputs.cache
+D:\HAUI\LAP_TRINH\DogNet\Bai2\CauTruc\obj\Debug\net6.0\CauTruc.AssemblyInfo.cs
+D:\HAUI\LAP_TRINH\DogNet\Bai2\CauTruc\obj\Debug\net6.0\CauTruc.csproj.CoreCompileInputs.cache
+D:\HAUI\LAP_TRINH\DogNet\Bai2\CauTruc\obj\Debug\net6.0\CauTruc.dll
+D:\HAUI\LAP_TRINH\DogNet\Bai2\CauTruc\obj\Debug\net6.0\refint\CauTruc.dll
+D:\HAUI\LAP_TRINH\DogNet\Bai2\CauTruc\obj\Debug\net6.0\CauTruc.pdb
+D:\HAUI\LAP_TRINH\DogNet\Bai2\CauTruc\obj\Debug\net6.0\CauTruc.genruntimeconfig.cache
+D:\HAUI\LAP_TRINH\DogNet\Bai2\CauTruc\obj\Debug\net6.0\ref\CauTruc.dll

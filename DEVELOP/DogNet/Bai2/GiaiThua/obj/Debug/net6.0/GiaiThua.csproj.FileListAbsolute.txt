@@ -1,0 +1,14 @@
+D:\HAUI\LAP_TRINH\DogNet\Bai2\GiaiThua\bin\Debug\net6.0\GiaiThua.exe
+D:\HAUI\LAP_TRINH\DogNet\Bai2\GiaiThua\bin\Debug\net6.0\GiaiThua.deps.json
+D:\HAUI\LAP_TRINH\DogNet\Bai2\GiaiThua\bin\Debug\net6.0\GiaiThua.runtimeconfig.json
+D:\HAUI\LAP_TRINH\DogNet\Bai2\GiaiThua\bin\Debug\net6.0\GiaiThua.dll
+D:\HAUI\LAP_TRINH\DogNet\Bai2\GiaiThua\bin\Debug\net6.0\GiaiThua.pdb
+D:\HAUI\LAP_TRINH\DogNet\Bai2\GiaiThua\obj\Debug\net6.0\GiaiThua.GeneratedMSBuildEditorConfig.editorconfig
+D:\HAUI\LAP_TRINH\DogNet\Bai2\GiaiThua\obj\Debug\net6.0\GiaiThua.AssemblyInfoInputs.cache
+D:\HAUI\LAP_TRINH\DogNet\Bai2\GiaiThua\obj\Debug\net6.0\GiaiThua.AssemblyInfo.cs
+D:\HAUI\LAP_TRINH\DogNet\Bai2\GiaiThua\obj\Debug\net6.0\GiaiThua.csproj.CoreCompileInputs.cache
+D:\HAUI\LAP_TRINH\DogNet\Bai2\GiaiThua\obj\Debug\net6.0\GiaiThua.dll
+D:\HAUI\LAP_TRINH\DogNet\Bai2\GiaiThua\obj\Debug\net6.0\refint\GiaiThua.dll
+D:\HAUI\LAP_TRINH\DogNet\Bai2\GiaiThua\obj\Debug\net6.0\GiaiThua.pdb
+D:\HAUI\LAP_TRINH\DogNet\Bai2\GiaiThua\obj\Debug\net6.0\GiaiThua.genruntimeconfig.cache
+D:\HAUI\LAP_TRINH\DogNet\Bai2\GiaiThua\obj\Debug\net6.0\ref\GiaiThua.dll

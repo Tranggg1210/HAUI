@@ -1,0 +1,14 @@
+D:\HAUI\LAP_TRINH\DogNet\Bai2\PhuongThuc\bin\Debug\net6.0\PhuongThuc.exe
+D:\HAUI\LAP_TRINH\DogNet\Bai2\PhuongThuc\bin\Debug\net6.0\PhuongThuc.deps.json
+D:\HAUI\LAP_TRINH\DogNet\Bai2\PhuongThuc\bin\Debug\net6.0\PhuongThuc.runtimeconfig.json
+D:\HAUI\LAP_TRINH\DogNet\Bai2\PhuongThuc\bin\Debug\net6.0\PhuongThuc.dll
+D:\HAUI\LAP_TRINH\DogNet\Bai2\PhuongThuc\bin\Debug\net6.0\PhuongThuc.pdb
+D:\HAUI\LAP_TRINH\DogNet\Bai2\PhuongThuc\obj\Debug\net6.0\PhuongThuc.GeneratedMSBuildEditorConfig.editorconfig
+D:\HAUI\LAP_TRINH\DogNet\Bai2\PhuongThuc\obj\Debug\net6.0\PhuongThuc.AssemblyInfoInputs.cache
+D:\HAUI\LAP_TRINH\DogNet\Bai2\PhuongThuc\obj\Debug\net6.0\PhuongThuc.AssemblyInfo.cs
+D:\HAUI\LAP_TRINH\DogNet\Bai2\PhuongThuc\obj\Debug\net6.0\PhuongThuc.csproj.CoreCompileInputs.cache
+D:\HAUI\LAP_TRINH\DogNet\Bai2\PhuongThuc\obj\Debug\net6.0\PhuongThuc.dll
+D:\HAUI\LAP_TRINH\DogNet\Bai2\PhuongThuc\obj\Debug\net6.0\refint\PhuongThuc.dll
+D:\HAUI\LAP_TRINH\DogNet\Bai2\PhuongThuc\obj\Debug\net6.0\PhuongThuc.pdb
+D:\HAUI\LAP_TRINH\DogNet\Bai2\PhuongThuc\obj\Debug\net6.0\PhuongThuc.genruntimeconfig.cache
+D:\HAUI\LAP_TRINH\DogNet\Bai2\PhuongThuc\obj\Debug\net6.0\ref\PhuongThuc.dll

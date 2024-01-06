@@ -1,0 +1,14 @@
+D:\HAUI\LAP_TRINH\DogNet\Bai2\Fibonacci\obj\Debug\net6.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\HAUI\LAP_TRINH\DogNet\Bai2\Fibonacci\obj\Debug\net6.0\Fibonacci.AssemblyInfoInputs.cache
+D:\HAUI\LAP_TRINH\DogNet\Bai2\Fibonacci\obj\Debug\net6.0\Fibonacci.AssemblyInfo.cs
+D:\HAUI\LAP_TRINH\DogNet\Bai2\Fibonacci\obj\Debug\net6.0\Fibonacci.csproj.CoreCompileInputs.cache
+D:\HAUI\LAP_TRINH\DogNet\Bai2\Fibonacci\bin\Debug\net6.0\Fibonacci.exe
+D:\HAUI\LAP_TRINH\DogNet\Bai2\Fibonacci\bin\Debug\net6.0\Fibonacci.deps.json
+D:\HAUI\LAP_TRINH\DogNet\Bai2\Fibonacci\bin\Debug\net6.0\Fibonacci.runtimeconfig.json
+D:\HAUI\LAP_TRINH\DogNet\Bai2\Fibonacci\bin\Debug\net6.0\Fibonacci.dll
+D:\HAUI\LAP_TRINH\DogNet\Bai2\Fibonacci\bin\Debug\net6.0\Fibonacci.pdb
+D:\HAUI\LAP_TRINH\DogNet\Bai2\Fibonacci\obj\Debug\net6.0\Fibonacci.dll
+D:\HAUI\LAP_TRINH\DogNet\Bai2\Fibonacci\obj\Debug\net6.0\refint\Fibonacci.dll
+D:\HAUI\LAP_TRINH\DogNet\Bai2\Fibonacci\obj\Debug\net6.0\Fibonacci.pdb
+D:\HAUI\LAP_TRINH\DogNet\Bai2\Fibonacci\obj\Debug\net6.0\Fibonacci.genruntimeconfig.cache
+D:\HAUI\LAP_TRINH\DogNet\Bai2\Fibonacci\obj\Debug\net6.0\ref\Fibonacci.dll

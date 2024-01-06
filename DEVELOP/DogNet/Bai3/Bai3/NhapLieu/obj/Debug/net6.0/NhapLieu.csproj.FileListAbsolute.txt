@@ -1,0 +1,14 @@
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\NhapLieu\bin\Debug\net6.0\NhapLieu.exe
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\NhapLieu\bin\Debug\net6.0\NhapLieu.deps.json
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\NhapLieu\bin\Debug\net6.0\NhapLieu.runtimeconfig.json
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\NhapLieu\bin\Debug\net6.0\NhapLieu.dll
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\NhapLieu\bin\Debug\net6.0\NhapLieu.pdb
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\NhapLieu\obj\Debug\net6.0\NhapLieu.GeneratedMSBuildEditorConfig.editorconfig
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\NhapLieu\obj\Debug\net6.0\NhapLieu.AssemblyInfoInputs.cache
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\NhapLieu\obj\Debug\net6.0\NhapLieu.AssemblyInfo.cs
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\NhapLieu\obj\Debug\net6.0\NhapLieu.csproj.CoreCompileInputs.cache
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\NhapLieu\obj\Debug\net6.0\NhapLieu.dll
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\NhapLieu\obj\Debug\net6.0\refint\NhapLieu.dll
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\NhapLieu\obj\Debug\net6.0\NhapLieu.pdb
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\NhapLieu\obj\Debug\net6.0\NhapLieu.genruntimeconfig.cache
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\NhapLieu\obj\Debug\net6.0\ref\NhapLieu.dll

@@ -1,0 +1,38 @@
+			    Chương 1
+a) Quản lí tiến trình:
+ - Đảm bảo sự hoạt động song song nhiều chương trình
+ - Tại một thời điểm, chỉ có 1 tiến trình đc hoạt động, nhưng do thời gian kiểu như là: đầu tiên cpu đc cấp cho tiến trình a, sau đó nó đc giật và cấp cho tiến trình b, cái khoảng thời gian đó nó rất ngắn nên ta tg là cpu đc cấp cho nhiều tiến trình cùng một lúc.
+- Tạo và xóa các tiến trình 
+- Giải quyết bế tắc
+- Bế tắc là hiện tượng một tiến trình đang cần một loại tài nguyên nhưng mà nó phải chờ đợi và không thằng nào cung cấp cho nó.
+
+
+b) Quản lí bộ nhớ trong
+-Địa chỉ vật lý là đại chỉ thật trên thanh ram
+- HĐH đi cấp phát và thu hồi không gian nhớ cho tiến trình
+- Quyết định tiến trình nào đó có thể nạp vào bộ nhớ
+
+c) Quản lí bộ nhớ ngoài
+-Lưu trữ file word, excel 
+
+d) Quản lí hệ thống vào ra
+
+e) Quản lí file
+-Tạo và xử lý file
+-Tạo và xử lý folder
+
+f) Hệ thống bảo vệ
+- Giúp cho hệ thống hoạt động bình thường, bảo vệ tài nguyên chung như: cpu, bảo vệ thông tin, bảo vệ máy tính khỏi virus, dự đoán xem tiến trình nào có thể xảy ra virus
+
+g) Lập mạng
+h) Hệ thống thông dịch lệnh:
+giúp cho máy tính giao tiếp với người dùng
+-> quan trọng nhất
+
+  TÍNH CHẤT CỦA HỆ THỐNG:
+- Độ tin cậy cao: khi truy nhập đĩa gặp lỗi, hđh cố gắng thực hiện lại thao tác truy nhập. nếu vẫn ko đc thì hđh mới đưa ra  thông báo 
+- Tính chất an toàn: Vd: khi chúng ta mở một file văn bản để chỉnh sửa hđh sẽ tạo một bản sao của file đó và chúng ta thao tác trên bản sao đó. Sau khi thao tác xong thì hệ điều hành ghi đè lên bản cũ. Như vậy sẽ đảm bảo được tính an toàn của dữ liệu khi chạy chương trình.
+-Tính hiệu quả: vd: không thể để hđ có tốc độ đọc ghi chậm làm trì hoãn chương trình nhập văn bản, với tài nguyên hệ thống yếu, nhưng vẫn phải cố gắng đáp ứng được những chương trình phức tạp, hiệu năng hệ thống
+-Tính kế thừa
+-Tính thuận lợi: vd: lệnh help ở trong cmd 
+

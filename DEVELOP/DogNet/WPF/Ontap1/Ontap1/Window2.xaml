@@ -1,0 +1,30 @@
+﻿<Window x:Class="Ontap1.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ontap1"
+        mc:Ignorable="d"
+        Title="Window2" FontSize="20" Height="550" Width="800">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        
+        <!-- Dòng tiêu đề -->
+        <Label Content="BẢNG NHÂN VIÊN CÓ TUỔI LỚN NHẤT" Grid.Row="0" Margin="10,5,10,5" Foreground="Blue" FontSize="30" FontWeight="Bold" HorizontalAlignment="Center"/>
+        
+        <!-- Dòng dữ liệu -->
+        <DataGrid x:Name="dataNVLT" AutoGenerateColumns="False" Grid.Row="1" Margin="10,5,10,5"  ColumnHeaderStyle="{StaticResource dataGridHeading}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã nhân viên" Binding="{Binding MaNhanVien}" />
+                <DataGridTextColumn Header="Họ tên" Binding="{Binding HoTen}" />
+                <DataGridTextColumn Header="Giới tính" Binding="{Binding GioiTinh}" />
+                <DataGridTextColumn Header="Phòng ban" Binding="{Binding PhongBan}" />
+                <DataGridTextColumn Header="Ngày sinh" Binding="{Binding NgaySinh, StringFormat=dd-MM-yyyy}" />
+                <DataGridTemplateColumn Header="Tuổi" Width="*" CellTemplate="{StaticResource templateTuoi}" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

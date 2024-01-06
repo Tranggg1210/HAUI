@@ -1,0 +1,5 @@
+
+Phan so A la: 5/4
+Phan so B la: 5/1
+Tich cua hai phan so A va B la: 25/4
+Gia tri cua phan so A la: 1.25

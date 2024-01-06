@@ -1,0 +1,14 @@
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TamGiac\bin\Debug\net6.0\TamGiac.exe
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TamGiac\bin\Debug\net6.0\TamGiac.deps.json
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TamGiac\bin\Debug\net6.0\TamGiac.runtimeconfig.json
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TamGiac\bin\Debug\net6.0\TamGiac.dll
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TamGiac\bin\Debug\net6.0\TamGiac.pdb
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TamGiac\obj\Debug\net6.0\TamGiac.GeneratedMSBuildEditorConfig.editorconfig
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TamGiac\obj\Debug\net6.0\TamGiac.AssemblyInfoInputs.cache
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TamGiac\obj\Debug\net6.0\TamGiac.AssemblyInfo.cs
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TamGiac\obj\Debug\net6.0\TamGiac.csproj.CoreCompileInputs.cache
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TamGiac\obj\Debug\net6.0\TamGiac.dll
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TamGiac\obj\Debug\net6.0\refint\TamGiac.dll
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TamGiac\obj\Debug\net6.0\TamGiac.pdb
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TamGiac\obj\Debug\net6.0\TamGiac.genruntimeconfig.cache
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TamGiac\obj\Debug\net6.0\ref\TamGiac.dll

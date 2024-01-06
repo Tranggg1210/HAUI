@@ -1,0 +1,14 @@
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TinhToan\bin\Debug\net6.0\TinhToan.exe
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TinhToan\bin\Debug\net6.0\TinhToan.deps.json
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TinhToan\bin\Debug\net6.0\TinhToan.runtimeconfig.json
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TinhToan\bin\Debug\net6.0\TinhToan.dll
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TinhToan\bin\Debug\net6.0\TinhToan.pdb
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TinhToan\obj\Debug\net6.0\TinhToan.GeneratedMSBuildEditorConfig.editorconfig
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TinhToan\obj\Debug\net6.0\TinhToan.AssemblyInfoInputs.cache
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TinhToan\obj\Debug\net6.0\TinhToan.AssemblyInfo.cs
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TinhToan\obj\Debug\net6.0\TinhToan.csproj.CoreCompileInputs.cache
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TinhToan\obj\Debug\net6.0\TinhToan.dll
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TinhToan\obj\Debug\net6.0\refint\TinhToan.dll
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TinhToan\obj\Debug\net6.0\TinhToan.pdb
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TinhToan\obj\Debug\net6.0\TinhToan.genruntimeconfig.cache
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\TinhToan\obj\Debug\net6.0\ref\TinhToan.dll

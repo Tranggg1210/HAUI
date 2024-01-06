@@ -1,0 +1,56 @@
+﻿<Application x:Class="DEMOBANHANG.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:DEMOBANHANG"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         <!--Style label-->
+        <Style x:Key="styleLabel" TargetType="Label">
+            <Setter Property="Margin" Value="10,5,10,5" />
+        </Style>
+        
+        <!--Style text box-->
+        <Style TargetType="TextBox" x:Key="styleTextBox">
+            <Setter Property="Margin" Value="10,5,10,5" />
+            <Setter Property="Width" Value="300" />
+            <Setter Property="Height" Value="32" />
+            <Setter Property="HorizontalAlignment" Value="Left" />
+            <Style.Triggers>
+                <Trigger Property="IsFocused" Value="True">
+                    <Setter Property="FontFamily" Value="Time New Roman" />
+                    <Setter Property="Foreground" Value="Blue"/>
+                    <Setter Property="FontStyle" Value="Italic" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <!--Style button-->
+        <Style x:Key="styleButton" TargetType="Button">
+            <Setter Property="Margin" Value="10,5,10,5" />
+            <Setter Property="Width" Value="120" />
+            <Setter Property="Height" Value="32" />
+            <Setter Property="Foreground" Value="White" />
+        </Style>
+        
+        <!--Tiêu đề cột-->
+        <DataTemplate x:Key="templateHeading" DataType="DataGridCell">
+            <TextBlock Text="{Binding DonGia}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </DataTemplate>
+        <DataTemplate x:Key="template" DataType="DataGridCell">
+            <TextBlock Text="{Binding SoLuongCo}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </DataTemplate>
+
+        <Style x:Key="styleHeading" TargetType="DataGridColumnHeader">
+            <Setter Property="FontWeight" Value="Bold" />
+            <Setter Property="HorizontalAlignment" Value="Center" />
+        </Style>
+        
+        <!--Template Button-->
+        <ControlTemplate x:Key="templateButton" TargetType="Button">
+            <Grid>
+                <Border Background="Cyan" CornerRadius="50"></Border>
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </Grid>
+        </ControlTemplate>
+    </Application.Resources>
+</Application>

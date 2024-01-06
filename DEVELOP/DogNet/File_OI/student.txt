@@ -1,0 +1,35 @@
+1
+Nguyen Van A
+Nam
+18
+9
+9
+9
+2
+Nguyen Thi B
+Nu
+19
+10
+10
+10
+3
+Nguyen Linh Anh
+Nu
+19
+10
+10
+9
+4
+Nguyen Ba Anh
+Nam
+20
+6
+9
+9
+5
+Nguyen Thi Ha 
+Nu
+19
+10
+8
+9

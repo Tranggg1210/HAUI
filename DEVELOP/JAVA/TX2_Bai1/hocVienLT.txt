@@ -1,0 +1,6 @@
+
+Nguyen An Khang ; Hai Duong ; LOAI_1 ; LAP_TRINH ; Hoc phi am
+Luong Hoang Duong ; Ha Nam ; LOAI_2 ; LAP_TRINH ; 9200000.0
+Nguyen Thi Minh ; Hai Phong ; LOAI_1 ; LAP_TRINH ; Hoc phi am
+Nguyen Thi Trang ; Hung Yen ; LOAI_1 ; LAP_TRINH ; 4600000.0
+Le Thi Lan ; Ha Noi ; LOAI_2 ; LAP_TRINH ; 1.36E7

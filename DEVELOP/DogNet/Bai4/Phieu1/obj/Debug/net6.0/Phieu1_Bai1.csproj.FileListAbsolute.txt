@@ -1,0 +1,14 @@
+D:\HAUI\LAP_TRINH\DogNet\Bai4\Phieu1\bin\Debug\net6.0\Phieu1_Bai1.exe
+D:\HAUI\LAP_TRINH\DogNet\Bai4\Phieu1\bin\Debug\net6.0\Phieu1_Bai1.deps.json
+D:\HAUI\LAP_TRINH\DogNet\Bai4\Phieu1\bin\Debug\net6.0\Phieu1_Bai1.runtimeconfig.json
+D:\HAUI\LAP_TRINH\DogNet\Bai4\Phieu1\bin\Debug\net6.0\Phieu1_Bai1.dll
+D:\HAUI\LAP_TRINH\DogNet\Bai4\Phieu1\bin\Debug\net6.0\Phieu1_Bai1.pdb
+D:\HAUI\LAP_TRINH\DogNet\Bai4\Phieu1\obj\Debug\net6.0\Phieu1_Bai1.GeneratedMSBuildEditorConfig.editorconfig
+D:\HAUI\LAP_TRINH\DogNet\Bai4\Phieu1\obj\Debug\net6.0\Phieu1_Bai1.AssemblyInfoInputs.cache
+D:\HAUI\LAP_TRINH\DogNet\Bai4\Phieu1\obj\Debug\net6.0\Phieu1_Bai1.AssemblyInfo.cs
+D:\HAUI\LAP_TRINH\DogNet\Bai4\Phieu1\obj\Debug\net6.0\Phieu1_Bai1.csproj.CoreCompileInputs.cache
+D:\HAUI\LAP_TRINH\DogNet\Bai4\Phieu1\obj\Debug\net6.0\Phieu1_Bai1.dll
+D:\HAUI\LAP_TRINH\DogNet\Bai4\Phieu1\obj\Debug\net6.0\refint\Phieu1_Bai1.dll
+D:\HAUI\LAP_TRINH\DogNet\Bai4\Phieu1\obj\Debug\net6.0\Phieu1_Bai1.pdb
+D:\HAUI\LAP_TRINH\DogNet\Bai4\Phieu1\obj\Debug\net6.0\Phieu1_Bai1.genruntimeconfig.cache
+D:\HAUI\LAP_TRINH\DogNet\Bai4\Phieu1\obj\Debug\net6.0\ref\Phieu1_Bai1.dll

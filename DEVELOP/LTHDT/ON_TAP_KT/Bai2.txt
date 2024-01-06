@@ -1,0 +1,5 @@
+
+So phuc SP1 la: 5 + i*4
+So phuc SP2 la: -6 - i*3
+Tong hai so phuc SP1 va SP2 la SP3 = -1 + i*1
+Hieu hai so phuc SP1 va SP2 la SP3 = 11 + i*7

@@ -1,0 +1,15 @@
+- Telnet là mọi tiện ích cho phép đăng nhập vào một máy tính từ xa và làm việc như một máy tính tại chỗ. Telnet sử dụng  giao thức TCP/IP(bộ giao thức internet)
+(TCP: transmission control protocol: giao thức điều khiển truyền dẫn và IP: internet protocol: giao thức internet), cổng 23.
+- Telnet cho phép một người ngồi trên máy tính ở một khu vực nào đó truy cập vào một máy tính ở chỗ khác để điều khiển các công việc trên máy tính đó.
+- Máy tính ở xa, được gọi là telnet, sẽ chấp nhận nối kết telnet từ một máy TCP/IP trên một hệ.
+- Telnet là một giao thức mạng được sử dụng để thiết lập kết nối với một máy tính từ xa.
+- Telnet là từ viết tắt caut teletype Network, phát triển năm 1969
+- SSH là secure shell là lựa chọn tốt để thay thế cho telnet do SSH bảo mật tốt hơn telnet
+- FTP là viết tắt của file transfer protocol là một giao thức truyền tải tập tin từ máy tính này đến  máy tính khác thông qua một mạng TCP hoặc qua internet.
+- Tại FTP bạn có thể quản lý toàn bộ các dữ liệu dạng tập tin và thư mục có trên host trừ database
+- Quá trình truyền nhận dữ liệu giữa máy client - server được tạo nên từ quá trình TCP logic: control 
+-Mô hình FTP được chia thành hai loại do có 2 phần giao thức chịu trách nhiệm cho mỗi kết mỗi kết nối riêng biệt là: Protocol Interpreter, Data  Transfer Process
+- Phương thức tạo kết nối dữ liệu của FPT có hai loại: normar dataa connection: kết nối kênh dữ liệu chủ động và passive data connection: Kết nối kênh dữ liệu bị động. 
+- Phương thức truyền dữ liệu: block mode, stream mode, compressed mode
+- Traceroute là tiện ích giúp vạch  lại con đường  kết nối từ máy bạn đến máy của một người nào đó ở xa trên internet. Nó cũng tính thời gian cần thiết để đi qua mỗi hop và sử dụng giao thức ICMP(Internet control message protocol).
+- Samba là chương trình tiện ích  hỗ trợ chia sẻ tài nguyên từ hệ thống Linux với các hệ thống khác.

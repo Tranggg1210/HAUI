@@ -1,0 +1,14 @@
+D:\HAUI\LAP_TRINH\DogNet\Bai3\TapTin\bin\Debug\net6.0\TapTin.exe
+D:\HAUI\LAP_TRINH\DogNet\Bai3\TapTin\bin\Debug\net6.0\TapTin.deps.json
+D:\HAUI\LAP_TRINH\DogNet\Bai3\TapTin\bin\Debug\net6.0\TapTin.runtimeconfig.json
+D:\HAUI\LAP_TRINH\DogNet\Bai3\TapTin\bin\Debug\net6.0\TapTin.dll
+D:\HAUI\LAP_TRINH\DogNet\Bai3\TapTin\bin\Debug\net6.0\TapTin.pdb
+D:\HAUI\LAP_TRINH\DogNet\Bai3\TapTin\obj\Debug\net6.0\TapTin.GeneratedMSBuildEditorConfig.editorconfig
+D:\HAUI\LAP_TRINH\DogNet\Bai3\TapTin\obj\Debug\net6.0\TapTin.AssemblyInfoInputs.cache
+D:\HAUI\LAP_TRINH\DogNet\Bai3\TapTin\obj\Debug\net6.0\TapTin.AssemblyInfo.cs
+D:\HAUI\LAP_TRINH\DogNet\Bai3\TapTin\obj\Debug\net6.0\TapTin.csproj.CoreCompileInputs.cache
+D:\HAUI\LAP_TRINH\DogNet\Bai3\TapTin\obj\Debug\net6.0\TapTin.dll
+D:\HAUI\LAP_TRINH\DogNet\Bai3\TapTin\obj\Debug\net6.0\refint\TapTin.dll
+D:\HAUI\LAP_TRINH\DogNet\Bai3\TapTin\obj\Debug\net6.0\TapTin.pdb
+D:\HAUI\LAP_TRINH\DogNet\Bai3\TapTin\obj\Debug\net6.0\TapTin.genruntimeconfig.cache
+D:\HAUI\LAP_TRINH\DogNet\Bai3\TapTin\obj\Debug\net6.0\ref\TapTin.dll

@@ -1,0 +1,14 @@
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\CuuChuong\bin\Debug\net6.0\CuuChuong.exe
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\CuuChuong\bin\Debug\net6.0\CuuChuong.deps.json
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\CuuChuong\bin\Debug\net6.0\CuuChuong.runtimeconfig.json
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\CuuChuong\bin\Debug\net6.0\CuuChuong.dll
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\CuuChuong\bin\Debug\net6.0\CuuChuong.pdb
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\CuuChuong\obj\Debug\net6.0\CuuChuong.GeneratedMSBuildEditorConfig.editorconfig
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\CuuChuong\obj\Debug\net6.0\CuuChuong.AssemblyInfoInputs.cache
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\CuuChuong\obj\Debug\net6.0\CuuChuong.AssemblyInfo.cs
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\CuuChuong\obj\Debug\net6.0\CuuChuong.csproj.CoreCompileInputs.cache
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\CuuChuong\obj\Debug\net6.0\CuuChuong.dll
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\CuuChuong\obj\Debug\net6.0\refint\CuuChuong.dll
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\CuuChuong\obj\Debug\net6.0\CuuChuong.pdb
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\CuuChuong\obj\Debug\net6.0\CuuChuong.genruntimeconfig.cache
+D:\HAUI\LAP_TRINH\DogNet\HelloWorld\CuuChuong\obj\Debug\net6.0\ref\CuuChuong.dll

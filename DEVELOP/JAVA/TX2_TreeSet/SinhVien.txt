@@ -1,0 +1,5 @@
+
+Duong Van An; 20; Nam; CNTT10; CNTT; DHCNHN; Ha Noi; Nguyen Van A
+Nguyen Thi Lan; 20; Nu; KHMT02; KHMT; DHCNHN; Ha Noi; Nguyen Van A
+Nguyen Thi Trang; 20; Nu; KTPM03; KTPM; DHCNHN; Ha Noi; Nguyen Van A
+a; 20; a; a; a; a; a; a

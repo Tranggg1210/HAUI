@@ -1,0 +1,14 @@
+D:\HAUI\LAP_TRINH\DogNet\Bai2\HinhChuNhat\bin\Debug\net6.0\HinhChuNhat.exe
+D:\HAUI\LAP_TRINH\DogNet\Bai2\HinhChuNhat\bin\Debug\net6.0\HinhChuNhat.deps.json
+D:\HAUI\LAP_TRINH\DogNet\Bai2\HinhChuNhat\bin\Debug\net6.0\HinhChuNhat.runtimeconfig.json
+D:\HAUI\LAP_TRINH\DogNet\Bai2\HinhChuNhat\bin\Debug\net6.0\HinhChuNhat.dll
+D:\HAUI\LAP_TRINH\DogNet\Bai2\HinhChuNhat\bin\Debug\net6.0\HinhChuNhat.pdb
+D:\HAUI\LAP_TRINH\DogNet\Bai2\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\HAUI\LAP_TRINH\DogNet\Bai2\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.AssemblyInfoInputs.cache
+D:\HAUI\LAP_TRINH\DogNet\Bai2\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.AssemblyInfo.cs
+D:\HAUI\LAP_TRINH\DogNet\Bai2\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.csproj.CoreCompileInputs.cache
+D:\HAUI\LAP_TRINH\DogNet\Bai2\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.dll
+D:\HAUI\LAP_TRINH\DogNet\Bai2\HinhChuNhat\obj\Debug\net6.0\refint\HinhChuNhat.dll
+D:\HAUI\LAP_TRINH\DogNet\Bai2\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.pdb
+D:\HAUI\LAP_TRINH\DogNet\Bai2\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.genruntimeconfig.cache
+D:\HAUI\LAP_TRINH\DogNet\Bai2\HinhChuNhat\obj\Debug\net6.0\ref\HinhChuNhat.dll

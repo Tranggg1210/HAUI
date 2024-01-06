@@ -1,0 +1,14 @@
+D:\HAUI\LAP_TRINH\DogNet\Bai2\DanhSach2\bin\Debug\net6.0\DanhSach2.exe
+D:\HAUI\LAP_TRINH\DogNet\Bai2\DanhSach2\bin\Debug\net6.0\DanhSach2.deps.json
+D:\HAUI\LAP_TRINH\DogNet\Bai2\DanhSach2\bin\Debug\net6.0\DanhSach2.runtimeconfig.json
+D:\HAUI\LAP_TRINH\DogNet\Bai2\DanhSach2\bin\Debug\net6.0\DanhSach2.dll
+D:\HAUI\LAP_TRINH\DogNet\Bai2\DanhSach2\bin\Debug\net6.0\DanhSach2.pdb
+D:\HAUI\LAP_TRINH\DogNet\Bai2\DanhSach2\obj\Debug\net6.0\DanhSach2.GeneratedMSBuildEditorConfig.editorconfig
+D:\HAUI\LAP_TRINH\DogNet\Bai2\DanhSach2\obj\Debug\net6.0\DanhSach2.AssemblyInfoInputs.cache
+D:\HAUI\LAP_TRINH\DogNet\Bai2\DanhSach2\obj\Debug\net6.0\DanhSach2.AssemblyInfo.cs
+D:\HAUI\LAP_TRINH\DogNet\Bai2\DanhSach2\obj\Debug\net6.0\DanhSach2.csproj.CoreCompileInputs.cache
+D:\HAUI\LAP_TRINH\DogNet\Bai2\DanhSach2\obj\Debug\net6.0\DanhSach2.dll
+D:\HAUI\LAP_TRINH\DogNet\Bai2\DanhSach2\obj\Debug\net6.0\refint\DanhSach2.dll
+D:\HAUI\LAP_TRINH\DogNet\Bai2\DanhSach2\obj\Debug\net6.0\DanhSach2.pdb
+D:\HAUI\LAP_TRINH\DogNet\Bai2\DanhSach2\obj\Debug\net6.0\DanhSach2.genruntimeconfig.cache
+D:\HAUI\LAP_TRINH\DogNet\Bai2\DanhSach2\obj\Debug\net6.0\ref\DanhSach2.dll
